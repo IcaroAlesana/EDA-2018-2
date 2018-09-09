@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536514446 source:d:\documentos\faculdade\eda\exercicios\fila-e-pilha\filaepilha.c
+	<stdio.h>
+	<stdlib.h>
+	"filaEPilha.h"
+
+1536514357 d:\documentos\faculdade\eda\exercicios\fila-e-pilha\filaepilha.h
+
+1536514163 source:d:\documentos\faculdade\eda\exercicios\fila-e-pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaEPilha.h"
+

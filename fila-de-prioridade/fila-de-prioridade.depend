@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536519396 source:d:\documentos\faculdade\eda\exercicios\fila-de-prioridade\filadeprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaDePrioridade.h"
+
+1536517190 d:\documentos\faculdade\eda\exercicios\fila-de-prioridade\filadeprioridade.h
+
+1536519043 source:d:\documentos\faculdade\eda\exercicios\fila-de-prioridade\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaDePrioridade.h"
+

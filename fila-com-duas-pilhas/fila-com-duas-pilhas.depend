@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536530811 source:d:\documentos\faculdade\eda\exercicios\fila-com-duas-pilhas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaDuasPilhas.h"
+
+1536521426 d:\documentos\faculdade\eda\exercicios\fila-com-duas-pilhas\filaduaspilhas.h
+
+1536531582 source:d:\documentos\faculdade\eda\exercicios\fila-com-duas-pilhas\filaduaspilhas.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaDuasPilhas.h"
+
